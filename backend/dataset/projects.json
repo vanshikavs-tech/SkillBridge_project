@@ -1,0 +1,246 @@
+[
+  {
+    "key": "proj_saas_dashboard",
+    "clientKey": "client_rahul",
+    "title": "Build Full Stack SaaS Analytics Dashboard with WebSocket Telemetry",
+    "category": "Web Development",
+    "description": "We require an experienced full-stack engineer to build a high-performance analytics dashboard. Key requirements include: real-time WebSocket chart updates, JWT authentication, user role management, and clean MongoDB aggregation queries.",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Socket.IO",
+      "Tailwind CSS"
+    ],
+    "budget": {
+      "min": 40000,
+      "max": 70000
+    },
+    "deadlineDays": 25,
+    "experienceLevel": "EXPERT",
+    "status": "IN_PROGRESS",
+    "hiredFreelancerKey": "freelancer_vanshika"
+  },
+  {
+    "key": "proj_banking_figma",
+    "clientKey": "client_rahul",
+    "title": "Design Mobile Banking Application High-Fidelity Figma System",
+    "category": "UI/UX Design",
+    "description": "Looking for a senior product designer to create a complete design system for a retail banking app. Must include atomic component architecture, dark mode tokens, onboarding flows, and micro-interaction prototypes.",
+    "skills": [
+      "UI/UX",
+      "Figma",
+      "Mobile Design",
+      "Prototyping"
+    ],
+    "budget": {
+      "min": 25000,
+      "max": 45000
+    },
+    "deadlineDays": 16,
+    "experienceLevel": "EXPERT",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_ecommerce_store",
+    "clientKey": "client_rahul",
+    "title": "Build Next.js 14 Headless E-commerce Store with Stripe Checkout",
+    "category": "Web Development",
+    "description": "Develop a modern e-commerce storefront with product filtering, dynamic cart drawer, Stripe payment intents integration, customer order history, and server-side rendering for optimal SEO.",
+    "skills": [
+      "React",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "budget": {
+      "min": 35000,
+      "max": 60000
+    },
+    "deadlineDays": 20,
+    "experienceLevel": "INTERMEDIATE",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_churn_ml",
+    "clientKey": "client_sarah",
+    "title": "Customer Churn Prediction and Retention ML Pipeline",
+    "category": "Data Science & AI",
+    "description": "Build and deploy a supervised machine learning model (XGBoost / Random Forest) predicting customer subscription churn with 88%+ recall. Deliver automated feature engineering scripts and FastAPI inference endpoints.",
+    "skills": [
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "FastAPI",
+      "Pandas"
+    ],
+    "budget": {
+      "min": 45000,
+      "max": 80000
+    },
+    "deadlineDays": 30,
+    "experienceLevel": "EXPERT",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_crypto_wallet",
+    "clientKey": "client_vikram",
+    "title": "Cross-Platform React Native Crypto & Fiat Wallet App",
+    "category": "Mobile Apps",
+    "description": "Need a mobile engineer to build an intuitive wallet app for iOS and Android. Requirements: biometric authentication, QR code scanner for transfers, transaction history list, and push notifications.",
+    "skills": [
+      "React Native",
+      "Mobile Apps",
+      "TypeScript",
+      "Node.js"
+    ],
+    "budget": {
+      "min": 50000,
+      "max": 90000
+    },
+    "deadlineDays": 35,
+    "experienceLevel": "EXPERT",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_k8s_devops",
+    "clientKey": "client_vikram",
+    "title": "AWS Kubernetes (EKS) Infrastructure and CI/CD Automation",
+    "category": "DevOps & Cloud",
+    "description": "Architect a secure, auto-scaling production Kubernetes cluster on AWS using Terraform. Set up automated GitHub Actions workflows for building, testing, and deploying containerized microservices.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "budget": {
+      "min": 35000,
+      "max": 65000
+    },
+    "deadlineDays": 18,
+    "experienceLevel": "EXPERT",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_api_docs",
+    "clientKey": "client_sarah",
+    "title": "Interactive OpenAPI Documentation & Developer Knowledge Base",
+    "category": "Content & Writing",
+    "description": "We need a technical writer with developer experience to author comprehensive API reference guides, quick-start recipes, and SDK walkthroughs for our enterprise AI platform.",
+    "skills": [
+      "Content Writing",
+      "Technical Writing",
+      "OpenAPI",
+      "Markdown"
+    ],
+    "budget": {
+      "min": 18000,
+      "max": 30000
+    },
+    "deadlineDays": 14,
+    "experienceLevel": "INTERMEDIATE",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_telehealth",
+    "clientKey": "client_rahul",
+    "title": "Real-Time Telehealth Video Consultation Web Platform",
+    "category": "Web Development",
+    "description": "Create a HIPAA-compliant consultation portal for doctors and patients. Features include calendar scheduling, real-time waiting room notifications via WebSockets, and prescription uploads.",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Socket.IO",
+      "Tailwind CSS"
+    ],
+    "budget": {
+      "min": 60000,
+      "max": 110000
+    },
+    "deadlineDays": 40,
+    "experienceLevel": "EXPERT",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_rag_langchain",
+    "clientKey": "client_sarah",
+    "title": "Enterprise PDF Search & Q&A Assistant with LangChain and ChromaDB",
+    "category": "Data Science & AI",
+    "description": "Build a retrieval-augmented generation (RAG) assistant that indexes internal legal documents and answers domain queries citing page sources. Deliver clean modular Python microservice.",
+    "skills": [
+      "Python",
+      "Data Science",
+      "LangChain",
+      "FastAPI"
+    ],
+    "budget": {
+      "min": 50000,
+      "max": 85000
+    },
+    "deadlineDays": 22,
+    "experienceLevel": "EXPERT",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_flutter_food",
+    "clientKey": "client_vikram",
+    "title": "Food Delivery Mobile App Frontend in Flutter",
+    "category": "Mobile Apps",
+    "description": "Implement a sleek, responsive mobile client with restaurant menus, interactive cart, Google Maps delivery tracking, and smooth custom animations.",
+    "skills": [
+      "Mobile Apps",
+      "UI/UX",
+      "Figma"
+    ],
+    "budget": {
+      "min": 30000,
+      "max": 55000
+    },
+    "deadlineDays": 21,
+    "experienceLevel": "INTERMEDIATE",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_rbac_portal",
+    "clientKey": "client_rahul",
+    "title": "Multi-Tenant Enterprise RBAC Administration Portal",
+    "category": "Web Development",
+    "description": "Create an administrative management portal with granular role permissions, audit logging, user suspension workflows, and bulk invitation emails.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "budget": {
+      "min": 28000,
+      "max": 48000
+    },
+    "deadlineDays": 15,
+    "experienceLevel": "INTERMEDIATE",
+    "status": "OPEN"
+  },
+  {
+    "key": "proj_spark_pipeline",
+    "clientKey": "client_sarah",
+    "title": "Real-Time ETL Data Pipeline with Apache Kafka and MongoDB",
+    "category": "Data Science & AI",
+    "description": "Design and deploy streaming data pipelines ingesting telemetry events, aggregating hourly metrics, and storing denormalized summaries in MongoDB.",
+    "skills": [
+      "Python",
+      "Data Science",
+      "MongoDB"
+    ],
+    "budget": {
+      "min": 45000,
+      "max": 75000
+    },
+    "deadlineDays": 28,
+    "experienceLevel": "EXPERT",
+    "status": "OPEN"
+  }
+]
